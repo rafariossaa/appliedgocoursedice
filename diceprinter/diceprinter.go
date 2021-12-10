@@ -3,7 +3,7 @@ package diceprinter
 import (
 	"fmt"
 
-	"github.com/appliedgocourses/dice"
+	dice "github.com/rafariossaa/appliedgocoursedice"
 )
 
 func PrintRoll(sides int, string comment) {
